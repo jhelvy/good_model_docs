@@ -1,5 +1,0 @@
----
-title: "GOOD Model"
----
-
-This is the home page
